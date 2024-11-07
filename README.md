@@ -14,6 +14,8 @@
 <a href="https://www.hackerrank.com/maniram249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maniram249" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/maniram07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maniram07" height="30" width="40" /></a>
 
+<h3 align="left">Resume :<a href="https://drive.google.com/file/d/1eEJUwVpjcdlCA-Qs3Fa3ENqDtTNXLjOH/view?usp=sharing"> MANIRAM_RESUME.pdf</a></h3>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
